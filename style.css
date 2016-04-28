@@ -1,3 +1,8 @@
 .break {
   border: 1px solid white
 }
+
+#title{
+  font-size: xx-large;
+  text-align: center;
+}
