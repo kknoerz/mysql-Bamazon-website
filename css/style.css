@@ -1,0 +1,19 @@
+.break {
+  border: 1px solid white
+}
+
+#title{
+  font-size: xx-large;
+  text-align: center;
+}
+
+.parallax-container {
+  height: 100%;
+}
+div.parallax img {
+  width: 100%;
+}
+
+div.card:hover {
+    opacity: 0.4;
+}
